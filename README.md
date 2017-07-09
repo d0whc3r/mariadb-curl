@@ -1,1 +1,3 @@
-# mariadb-curl
+# Mariadb + Curl
+
+Latest mariadb image with curl
